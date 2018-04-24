@@ -1,2 +1,3 @@
 # Tensor_Flow
-Basic Tensor Flow commands
+
+Tensor Flow Projects for Machine Learning Class @Fordham GSAS Data Analytics 
